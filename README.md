@@ -1,2 +1,17 @@
 # volcano-validation
+
 Volcano Validation is a New Real-Time Validation Library using Vanilla JavaScript, it's don't need to any JavaScript Skills . just using our Attribute in HTML form, and also we don't believe in JQuery here.
+
+## how to use
+
+please read our full documentation on :   [documentation](https://abdkayali3.github.io/volcano-validation/).
+
+## whats new
+
+#### v-0.5
+- add email, url, match password to library.
+
+## License
+
+The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
