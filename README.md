@@ -13,5 +13,5 @@ please read our full documentation on :   [documentation](https://abdkayali3.git
 
 ## License
 
-The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Volcano Validation is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
