@@ -1,7 +1,7 @@
 <p align="center"><img width="50%" src="https://abdkayali3.github.io/volcano-validation/Logo.png"/></p>
 
 Volcano Validation is a New Real-Time Validation Library using Vanilla JavaScript, it's don't need to any JavaScript Skills . just using our Attribute in HTML form, and also 
-###<b style="color:#E84E1C;">we don't believe in JQuery here</b>.
+### <b style="color:#E84E1C;">we don't believe in JQuery here</b>.
 
 ## how to use
 
