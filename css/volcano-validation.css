@@ -1,0 +1,18 @@
+.validation-required-error,.validation-numeric-error,.validation-min-number-error,.validation-max-number-error,.validation-min-length-error,.validation-max-length-error,.validation-password-error,.validation-email-error,.validation-match-password-error {
+  border: 1px solid #E84E1C;
+}
+.validation-required-error:focus,.validation-numeric-error:focus,.validation-min-number-error:focus,.validation-max-number-error:focus,.validation-min-length-error:focus,.validation-max-length-error:focus,.validation-password-error:focus,.validation-email-error:focus,.validation-match-password-error:focus {
+  border: 1px solid #E84E1C;
+  box-shadow: 0 0 0 0.2rem #E84E1C6e;
+}
+.validation-span {
+  color: #E84E1C;
+  content: "*this field is required !";
+  font-size: .7rem;
+  font-weight: bold;
+  text-align: left;
+  display: block;
+}
+
+
+
