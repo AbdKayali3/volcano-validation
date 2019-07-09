@@ -417,13 +417,13 @@ function start_validation(my_form) {
     console.log(validation_selector_required[i].value);
     let ourvalue = validate_rt_empty(validation_selector_required[i]);
     if (ourvalue != true) {
-      error += 1;
       console.log(ourvalue);
       if (hasClass(validation_selector_required[i], "validation-required-error")) {
         validation_selector_required[i].classList.remove("validation-required-error");
         removeAfter(validation_selector_required[i]);  
       }
     } else {
+      error += 1;
       validation_selector_required[i].classList.add("validation-required-error");
       let node = document.createElement("SPAN");
       insertAfter(node,validation_selector_required[i],"required")
